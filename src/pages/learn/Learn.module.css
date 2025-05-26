@@ -1,0 +1,72 @@
+
+.courses_container {
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-block: 1rem;
+    background-color: var(--clr-bg);
+}
+
+.top_head {
+    display: flex;
+    color: var(--clr-text-main);
+    padding: 1rem;
+    background-color: var(--clr-bg-contrast);
+    border-radius: 0.5rem;
+    margin: 2rem 0;
+    align-content: space-between;
+}
+.back {
+    margin-right: 1rem;
+    cursor: pointer;
+    color: var(--clr-text-main);
+}
+.back:hover {
+    color: var(--clr-accent);
+}
+.heading {
+    display: flex;
+}
+  
+  
+
+.chapter_box {
+    display: flex;
+    color: var(--clr-text-main);
+    padding: 1rem;
+} 
+.chapters {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: var(--clr-bg-contrast);
+    border-radius: 0.5rem;
+    margin: 1rem 1rem 1rem 0;
+}
+/* All the links of chapter_box div */ 
+.chapter_box a {
+    text-decoration: none;
+    color: var(--clr-text-main);
+}
+.chapter_box a:hover {
+    color: var(--clr-accent);
+}
+.chapterTitle {
+    font-size: 1.2rem;
+    padding-top: 0.4rem;
+}
+
+.courses {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: var(--clr-bg-contrast);
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+}
+  
+  
+  
+  
+  

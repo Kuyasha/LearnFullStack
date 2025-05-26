@@ -1,0 +1,22 @@
+
+.errorPage {
+    text-align: center;
+    color: white;
+    margin-top: 10rem;
+  }
+  
+  .errorPage h1 {
+    margin-bottom: 2rem;
+  }
+  .errorPage h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .error_btn {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    height: 40px;
+    width: 100px;
+  }
+
