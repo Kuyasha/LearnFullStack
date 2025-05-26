@@ -1,4 +1,4 @@
-# EduLearn - Educational Website
+# LearnFullStack - Educational Website
 
 EduLearn is a responsive educational website built with React.js. It provides interactive tutorial content, educational videos, and a clean, user-friendly interface for learners to explore various subjects.
 
