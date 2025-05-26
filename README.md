@@ -35,6 +35,12 @@ EduLearn is a responsive educational website built with React.js. It provides in
 
 
 
+ ## Project Outcome
+
+ This project helped me strengthen my frontend development skills and understand how to structure educational content effectively on the web.
+
+
+
 ## License
 
 This project is open source and available under the MIT License.
